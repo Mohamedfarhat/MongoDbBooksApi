@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbBooksApi", "MongoDbBooksApi.csproj", "{F39E7B83-F9D5-4D8A-A2A7-607712106E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39E7B83-F9D5-4D8A-A2A7-607712106E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39E7B83-F9D5-4D8A-A2A7-607712106E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39E7B83-F9D5-4D8A-A2A7-607712106E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39E7B83-F9D5-4D8A-A2A7-607712106E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B688F0-3F52-4F4D-AE9E-53F30C39C1C3}
+	EndGlobalSection
+EndGlobal
